@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlip
+scikit-learn
+xgboost
+dill
+flask
+statsmodels
+StandardScaler
+joblib
+streamlit
+-e .
